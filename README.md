@@ -1,1 +1,1 @@
-# Ecommerce_Analytics_Projects
+# FinStream: Real-Time Financial Dashboard
